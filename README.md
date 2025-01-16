@@ -9,21 +9,32 @@ SQL techniques to facilitate data analysis and reporting.
 ### 1. Database Setup: Establish the library_management_system database, including the 
 creation and population of tables for: 
 • Branches 
-• Employees 
+
+• Employees
+
 • Members 
+
 • Books 
-• Issued Status 
-• Return Status 
+
+• Issued Status
+
+• Return Status
+
 
 ### 2. Analytical SQL Queries: Develop complex queries to extract and analyze data, providing 
 insights into various aspects of library management.
 
 ### Report: 
 • Data Analysis: Generated insights related to: 
+
 • Book categories and their popularity 
+
 • Employee with most issued of books. 
+
 • Book with highest issue. 
+
 • Status of issued books 
+
 The project has achieved its primary objectives, providing valuable insights into various aspects of 
 library management.
 
